@@ -6,11 +6,11 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [Mustafa Humraya 
   ['94740804536', 'Dinuwa Official²⁰²³', true],
   ['94740804536', 'Dinuwa Official²⁰²³', true], 
   [''] 
-] //Number of owners
+] //Number of owners One
 
 global.mods = ['94740804536','94740804536'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
@@ -47,11 +47,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 Mustafa humraya 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
+global.packname = '💝 Mustafa humraya 💝 Created By 💝 Mustafa humraya 💝' 
+global.author = '💝 Mustafa humraya 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Mustafahumraya\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
 global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
